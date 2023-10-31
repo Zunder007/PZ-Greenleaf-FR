@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Base.DamiaoBackPack = "Sac à dos Damiao",
+}
